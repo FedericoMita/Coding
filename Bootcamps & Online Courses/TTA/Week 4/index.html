@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>    
+    <title>Patisserie TTA</title>
+    <!--I tried putting a favicon allocating the files in a sub-folder named "Images", but it didn't work.
+        Then I tried moving the folder up, to the TTA folder, but nothing. I don't know what I'm getting wrong,
+        but in the meantime I linked directly the image, although I don't like the way I went about this 
+        (I had to download it then upload it to another site, as the direct link to the image was way too many lines).
+        There are some files linked through an URL because getting them locally wasn't working, even though the code was the same.-->
+    <link rel="icon" type="image/x-icon" href="https://i.postimg.cc/NfVyrQy6/favicon.png">
+    <link rel="stylesheet" href="styles.css">
+    <script type="text/javascript" src="preloader.js"></script><!--this is for the loader gif-->
+</head>
+<body>
+    <div id="loader"></div>
+    <div id="content">
+<!--The Patisserie TTA is short for "Patisserie Très Talentueux d'Amour"...I'm writing it in case I forget it while I code-->
+<ul>
+    <li><a href="who.html">Who we are</a></li>
+    <li class="dropdown">
+        <a href="javascript:void(0)" class="dropbtn">Our Products</a>
+        <div class="dropdown-content">
+            <a href="cakes.html">Cakes</a>
+            <a href="pastries.html">Pastries</a>
+            <a href="mignon.html">Mignon</a>
+            <a href="savoury.html">Savoury</a>
+        </div>
+    </li>
+    <li><a href="order.html">Place an Order</a></li>
+    <li><a href="contact.html">Contact Us</a></li>
+    <li><a href="work.html">Work for Us</a></li>
+</ul>
+<div class="container-slideshow">
+    <div class="slideshow">
+        <img id="image" class="mySlides" src="Images/croissant.jpg" style="width:100%">   
+        <img id="image"class="mySlides" src="Images/pastry.jpg" style="width:100%">
+        <img id="image" class="mySlides" src="Images/butter.jpg" style="width:100%">
+    </div>
+</div>
+<!--the Javascript underneath is for an automatic sideshow. It's not a separate file because I still lack the knowledge to manage that--> 
+<script>
+  var myIndex = 0;
+  carousel();
+  
+  function carousel() {
+    var i;
+    var x = document.getElementsByClassName("mySlides");
+    for (i = 0; i < x.length; i++) {
+      x[i].style.display = "none";  
+    }
+    myIndex++;
+    if (myIndex > x.length) {myIndex = 1}    
+    x[myIndex-1].style.display = "block";  
+    setTimeout(carousel, 4000);
+  }
+</script>
+      
+    </div>
+</body>
+</html>

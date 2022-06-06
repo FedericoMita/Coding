@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>    
+    <title>Patisserie TTA</title>
+    <link rel="icon" type="image/x-icon" href="https://i.postimg.cc/NfVyrQy6/favicon.png">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<ul>
+    <!--On every page, its name from the menu is exchanged for "Home"-->
+    <li><a href="who.html">Who are we</a></li>
+    <li class="dropdown">
+        <a href="javascript:void(0)" class="dropbtn">Our Products</a>
+        <div class="dropdown-content">
+            <a href="cakes.html">Cakes</a>
+            <a href="pastries.html">Pastries</a>
+            <a href="mignon.html">Mignon</a>
+            <a href="savoury.html">Savoury</a>
+        </div>
+    </li>
+    <li><a href="order.html">Place an Order</a></li>
+    <li><a href="index.html">Home</a></li>
+    <li><a href="work.html">Work for Us</a></li>
+</ul>
+<h1>Contact</h1>
+<div class="text-container">
+<p>Did you visit our shop? Has someone brought you some of our delicious food? Do you just want to appreciate our website? Please leave a feedback here, we promise we are reading every single one of them!
+</p>
+</div>
+<div class="text-container"><!--Yes, I used again this class without creating another one for random image, this is lazyness from my part-->
+            <form action="/action_page.php">
+                <textarea id="subject" name="subject" placeholder="Leave a feedback!" style="height:200px"></textarea>
+                <br>
+              <input type="submit" value="Submit" class="btn">
+            </form>
+          
+    </div>
+</body>
+</html>
