@@ -1,0 +1,7 @@
+Pippo,39, pippo road,oing,owig,00289442378,12/02/1994,Comprehensive,Pippocar,-3000,B,BR0348HR,99999,12,No,1330,110,83
+Federico Mita,Tamworth,Dordon,Staffordshire,07869634523,14/02/1991,Comprehensive,Hyundai ix35,-3000,D,MT64VFE,4000,1500,No,950,79,17
+Federico Mita,Tamworth,Dordon,Staffordshire,07869634523,14/02/1991,Comprehensive,Hyundai ix35,-3000,B,MT64VFE,4000,1500,No,1330,110,83
+,,,,,14/02/1994,,,,,rrrrrrAAAAooo,,1000000,,0,110,83
+Federico Mita,Tamworth,Dordon,Staffordshire,07869634523,14/02/1991,Comprehensive,Hyundai ix35,2018,C,MT64VFE,4000,1500,No,1140,95,00
+Federico Mita,Tamworth,Dordon,Staffordshire,07869634523,14/02/1991,Comprehensive,Hyundai ix35,2022,D,MT64VFE,4000,1500,Yes,1900,158,33
+Federico Mita,Tamworth,Dordon,Staffordshire,07869634523,14/02/1994,Comprehensive,Hyundai ix35,2022,C,MT64VFE,4000,1500,Yes,1900,158,33

@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\Giraffe\Giraffe\bin\Debug\Giraffe.exe.config
+C:\Users\User\source\repos\Giraffe\Giraffe\bin\Debug\Giraffe.exe
+C:\Users\User\source\repos\Giraffe\Giraffe\bin\Debug\Giraffe.pdb
+C:\Users\User\source\repos\Giraffe\Giraffe\obj\Debug\Giraffe.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Giraffe\Giraffe\obj\Debug\Giraffe.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Giraffe\Giraffe\obj\Debug\Giraffe.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Giraffe\Giraffe\obj\Debug\Giraffe.exe
+C:\Users\User\source\repos\Giraffe\Giraffe\obj\Debug\Giraffe.pdb

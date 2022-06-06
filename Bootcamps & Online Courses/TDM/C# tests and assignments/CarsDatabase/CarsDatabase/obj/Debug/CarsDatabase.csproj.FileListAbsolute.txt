@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\CarsDatabase\CarsDatabase\bin\Debug\Database1.mdf
+C:\Users\User\source\repos\CarsDatabase\CarsDatabase\bin\Debug\Database1_log.ldf
+C:\Users\User\source\repos\CarsDatabase\CarsDatabase\bin\Debug\CarsDatabase.exe.config
+C:\Users\User\source\repos\CarsDatabase\CarsDatabase\bin\Debug\CarsDatabase.exe
+C:\Users\User\source\repos\CarsDatabase\CarsDatabase\bin\Debug\CarsDatabase.pdb
+C:\Users\User\source\repos\CarsDatabase\CarsDatabase\obj\Debug\CarsDatabase.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\CarsDatabase\CarsDatabase\obj\Debug\CarsDatabase.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\CarsDatabase\CarsDatabase\obj\Debug\CarsDatabase.frmCars.resources
+C:\Users\User\source\repos\CarsDatabase\CarsDatabase\obj\Debug\CarsDatabase.frmSearch.resources
+C:\Users\User\source\repos\CarsDatabase\CarsDatabase\obj\Debug\CarsDatabase.Properties.Resources.resources
+C:\Users\User\source\repos\CarsDatabase\CarsDatabase\obj\Debug\CarsDatabase.csproj.GenerateResource.cache
+C:\Users\User\source\repos\CarsDatabase\CarsDatabase\obj\Debug\CarsDatabase.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CarsDatabase\CarsDatabase\obj\Debug\CarsDatabase.exe
+C:\Users\User\source\repos\CarsDatabase\CarsDatabase\obj\Debug\CarsDatabase.pdb
