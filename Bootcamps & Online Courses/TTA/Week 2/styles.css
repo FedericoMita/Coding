@@ -1,0 +1,35 @@
+body {
+    background-color: powderblue;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+
+  h1 {
+    color: blue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+
+  h2 {
+    color: blue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+
+  h3 {
+    color: blue;       
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+
+  p {
+    color: rgb(0, 0, 0);
+  }
+
+  table {
+    font-family: 'Courier New', Courier, monospace;
+    border-collapse: collapse;
+    width: 15%;
+  }
+  
+  td, th {
+    border: 1px solid #2e00fa;
+    text-align: center;
+    padding: 4px;
+  }
